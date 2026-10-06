@@ -1,0 +1,6 @@
+/*
+!/.gitignore
+!/README.md
+!/screenshots/
+/screenshots/*
+!/screenshots/*.png
